@@ -65,8 +65,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EvanAttack/EvanAttack/output/snake.svg" alt="Snake animation" />
 
 ###
