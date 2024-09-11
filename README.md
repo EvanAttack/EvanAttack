@@ -48,7 +48,7 @@
 </div>
 
 ###
-# 💻 Logiciels uitlisés:
+# 💻 Logiciels utilisés:
 
 
 <div align="left">
