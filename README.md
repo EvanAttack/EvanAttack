@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+# 💻 OS utilisés:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
@@ -20,6 +20,7 @@
 </div>
 
 ###
+# 💻 Language de progs:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -39,6 +40,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
   <img width="12" />
@@ -46,6 +48,8 @@
 </div>
 
 ###
+# 💻 Logiciels uitlisés:
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
