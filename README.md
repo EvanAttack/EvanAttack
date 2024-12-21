@@ -1,4 +1,4 @@
-<h2 align="left">A propos de moi</h2>
+# A propos de moi
 
 ###
 # 💻 OS utilisés:
@@ -11,11 +11,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
 
-  
+
 </div>
 
 ###
-# 💻 Language de progs:
+## 🔧 Language de progs:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -45,7 +45,7 @@
 </div>
 
 ###
-# 💻 Logiciels utilisés:
+## 💼 Logiciels utilisés:
 
 
 <div align="left">
