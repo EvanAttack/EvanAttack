@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **second-year Computer Science student** specializing in **application development**.  
+I'm a **third-year Computer Science student** specializing in **application development**.  
 I’ve been surrounded by tech from a very young age, which naturally led me to software development.
 
 I enjoy working on **web projects**, experimenting with **backend architectures**, and building **interactive systems** — from web apps to game-related plugins.
