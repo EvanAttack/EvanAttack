@@ -17,7 +17,7 @@ I’m currently doing an **internship**, where I continue to sharpen my skills i
 
 ---
 ## 🔥 Activity
-![Streak](https://streak-stats.demolab.com?user=EvanAttack&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=EvanNunes&theme=tokyonight)
 
 ---
 
